@@ -6,6 +6,7 @@
 Sempre fui fascinado pelo poder do Machine Learning e, para aprofundar meus conhecimentos, decidi explorar o Azure Machine Learning e entender como funciona o fluxo de trabalho automatizado. Segui as diretrizes da Microsoft, desde a configuração do ambiente até a obtenção dos resultados, e este repositório documenta todo esse processo.
 
 🛠️ Passo a Passo:
+
 🔹 1. Configuração do Ambiente
 Iniciei o projeto acessando o Azure Machine Learning e criando meu workspace.
 Baixei os arquivos recomendados pela Microsoft para dar início à configuração.
