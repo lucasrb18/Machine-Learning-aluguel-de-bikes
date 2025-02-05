@@ -1,6 +1,6 @@
 # Olá, meu nome é Lucas!
 
-# Explorando o Machine Learning Automatizado no Azure 🚀
+Explorando o Machine Learning Automatizado no Azure 🚀
 
 📌 Sobre o Projeto
 Sempre fui fascinado pelo poder do Machine Learning e, para aprofundar meus conhecimentos, decidi explorar o Azure Machine Learning e entender como funciona o fluxo de trabalho automatizado. Segui as diretrizes da Microsoft, desde a configuração do ambiente até a obtenção dos resultados, e este repositório documenta todo esse processo.
